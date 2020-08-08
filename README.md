@@ -10,7 +10,7 @@ Tame of Thrones:
 Traffic:
        
         Written in java 1.11, build using maven
-          for rxcecuting
+          for excecuting
             mvn clean install -DskipTests -q assembly:single
             java -jar <path_to>/geektrust.jar <absolute_path_to_input_file>
 
